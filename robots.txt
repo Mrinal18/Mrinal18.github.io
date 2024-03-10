@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Mrinal18.github.io/sitemap.xml
