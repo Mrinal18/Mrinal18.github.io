@@ -15,8 +15,7 @@ Drawing from my experiences at Apple, ARM Ltd., and the cutting-edge research la
 Join our community to explore how we're shaping the future of AI, making it more efficient, robust, and accessible to diverse applications worldwide."
 
 
-footer_text: >
-Made by Mrinal Mathur
+footer_text: Made by Mrinal Mathur
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: personal_photo.jpeg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
