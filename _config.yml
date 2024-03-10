@@ -67,13 +67,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: mrinal18
 gitlab_username: # your GitLab user name
-x_username: # your X handle
+x_username: bobthemaster
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: mmathur4
 telegram_username: # your Telegram user name
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: FclJStIAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can reach out to me using the contacts above! 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -123,8 +123,14 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: NeuralNetsNook # blog_name will be displayed in your blog page
+blog_description: Welcome to NeuralNetsNook, a specialized forum where the intricacies of deep learning and AI efficiency converge. As a seasoned Machine Learning Engineer and a dedicated researcher, my aim is to distill complex concepts into actionable insights, from the core of model compression and sparse learning to the frontiers of multimodal and federated learning.
+
+Drawing from my experiences at Amazon, Apple, ARM Ltd., and the cutting-edge research labs of Georgia Tech, this blog serves as a beacon for professionals, academics, and enthusiasts alike. Here, we dissect the latest advancements, tackle real-world applications, and forecast the evolving landscape of AI technologies.
+
+Join our community to explore how we're shaping the future of AI, making it more efficient, robust, and accessible to diverse applications worldwide.
+
+
 permalink: /blog/:year/:title/
 
 # Pagination
