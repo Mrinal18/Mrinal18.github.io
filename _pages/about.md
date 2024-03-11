@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: (Website Under Construction)
 permalink: /
-subtitle: <a href='#'>Amazon</a>
+subtitle: <a href='#'>Amazon (Website Under Construction!)</a>
 
 profile:
   align: right
