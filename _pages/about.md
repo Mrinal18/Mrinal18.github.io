@@ -8,8 +8,7 @@ profile:
   align: right
   image: personal_photo.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-  Website Under Construction!
+  more_info: Website Under Construction!
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
