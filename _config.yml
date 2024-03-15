@@ -121,7 +121,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: NeuralNetsNook # blog_name will be displayed in your blog page
-blog_description: Stories and tutorials on the cutting-edge work done in artificial intelligence and machine learning!
+blog_description: Stories and tutorials on the cutting-edge work done in artificial intelligence and machine learning! (under construction)
 permalink: /blog/:year/:title/
 
 # Pagination
