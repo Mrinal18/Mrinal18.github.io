@@ -128,7 +128,7 @@ Drawing from my experiences at Amazon, Apple, ARM Ltd., and the cutting-edge res
 Join our community to explore how we're shaping the future of AI, making it more efficient, robust, and accessible to diverse applications worldwide.
 
 
-permalink: /blog/:year/:title/
+#permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
