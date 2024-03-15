@@ -121,14 +121,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: NeuralNetsNook # blog_name will be displayed in your blog page
-blog_description: Welcome to NeuralNetsNook, a specialized forum where the intricacies of deep learning and AI efficiency converge. As a seasoned Machine Learning Engineer and a dedicated researcher, my aim is to distill complex concepts into actionable insights, from the core of model compression and sparse learning to the frontiers of multimodal and federated learning.
-
-Drawing from my experiences at Amazon, Apple, ARM Ltd., and the cutting-edge research labs of Georgia Tech, this blog serves as a beacon for professionals, academics, and enthusiasts alike. Here, we dissect the latest advancements, tackle real-world applications, and forecast the evolving landscape of AI technologies.
-
-Join our community to explore how we're shaping the future of AI, making it more efficient, robust, and accessible to diverse applications worldwide.
-
-
-#permalink: /blog/:year/:title/
+blog_description: "Welcome to NeuralNetsNook, a specialized forum where the intricacies of deep learning and AI efficiency converge. As a seasoned Machine Learning Engineer and a dedicated researcher, my aim is to distill complex concepts into actionable insights, from the core of model compression and sparse learning to the frontiers of multimodal and federated learning.
+Drawing from my experiences at Amazon, Apple, ARM Ltd., and the cutting-edge research labs of Georgia Tech, this blog serves as a beacon for professionals, academics, and enthusiasts alike. Here, we dissect the latest advancements, tackle real-world applications, and forecast the evolving landscape of AI technologies."
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
