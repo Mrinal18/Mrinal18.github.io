@@ -1,6 +1,6 @@
 ---
 layout: about
-title: (Website Under Construction)
+title: Mrinal Mathur
 permalink: /
 subtitle: <a href='#'>Amazon (Website Under Construction!)</a>
 

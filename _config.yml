@@ -121,7 +121,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: NeuralNetsNook # blog_name will be displayed in your blog page
-blog_description: Welcome to NeuralNetsNook, a specialized forum where the intricacies of deep learning and AI efficiency converge. As a seasoned Machine Learning Engineer and a dedicated researcher, my aim is to distill complex concepts into actionable insights, from the core of model compression and sparse learning to the frontiers of multimodal. Drawing from my experiences at Amazon, Apple, ARM Ltd., and the cutting-edge research labs of Georgia Tech, this blog serves as a beacon for professionals, academics, and enthusiasts alike.
+blog_description: Stories and tutorials on the cutting-edge work done in artificial intelligence and machine learning!
 permalink: /blog/:year/:title/
 
 # Pagination
